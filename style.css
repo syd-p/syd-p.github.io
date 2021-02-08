@@ -28,3 +28,9 @@ p
 	float: right;
 	margin-left: 20px;
 }
+
+#about
+{
+	background-image: url("background.jpg");
+	height: 600px;
+}
