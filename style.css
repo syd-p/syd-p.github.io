@@ -1,0 +1,30 @@
+body
+{
+	background-color: black;
+	color: rgb(0, 226, 0);
+	margin: auto;
+	max-width: 800px;
+}
+
+h1
+{
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+p
+{
+	font-family: Arial, sans-serif;
+}
+
+#cppimg
+{
+	float: left;
+	margin-right: 20px;
+}
+
+#openglimg
+{
+	float: right;
+	margin-left: 20px;
+}
