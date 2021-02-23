@@ -6,7 +6,12 @@ body
 	max-width: 800px;
 }
 
-h1
+iframe
+{
+	max-width: 800px;
+}
+
+h1, h2
 {
 	font-family: Arial, sans-serif;
 	text-align: center;
